@@ -13,6 +13,7 @@ import { RxBorderSplit } from "react-icons/rx";
 import { TbTruckDelivery } from "react-icons/tb";
 
 
+
 const SingleProductPage = async ({ params }: { params: Promise<{ slug: string }> }) => {
 
     const { slug } = await params;
