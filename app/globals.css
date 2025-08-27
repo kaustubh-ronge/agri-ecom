@@ -15,14 +15,14 @@
   --color-darkColor: #151515;
   --color-lightColor: #52525b;
   --color-lightOrange: #fca99b;
-  --color-shop_lighter_green: #93D991;
+  --color-shop_lighter_green: #93d991;
   --color-shop_light_green: #3b9c3c;
   --color-deal-bg: #f1f3f8;
   --color-dark_blue: #6c7fd8;
   --color-shop_lighter_bg: #f1f3f8;
   --color-shop_light_text: #686e7d;
   --color-shop_lighter_text: #ababab;
-  --color-deal-bg:#f1f3f8;
+  --color-deal-bg: #f1f3f8;
 }
 
 :root {
@@ -135,6 +135,7 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 }
+
 
 @layer base {
   * {
